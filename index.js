@@ -10,3 +10,4 @@ class Polygon {
   get perimeter() {
     return this.sides.reduce((sum, currentSide) => sum + currentSide, 0)
   }
+}
