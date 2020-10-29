@@ -1,5 +1,5 @@
 class Polygon {
-  constuctor(array) {
+  constructor(array) {
     this.sides = array;
   }
 
