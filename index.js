@@ -1,5 +1,6 @@
 class Polygon(array) {
-  this.sides = array
+  constuctor(array) {
+    this.sides = array
 }
 
 get countSides() {
