@@ -2,8 +2,10 @@ class Polygon(array) {
   this.sides = array
 }
 
-get countSides {
+get countSides() {
   return this.sides.length
 }
 
-get perimeter
+get perimeter() {
+  
+}
