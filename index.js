@@ -5,3 +5,5 @@ class Polygon(array) {
 get countSides {
   return this.sides.length
 }
+
+get perimeter
